@@ -8,6 +8,7 @@
 
 ### I am doing small projects on chapter 6 for betetr understanding of Dictionary of python
 
-### My first project looks like first_project.py which mimic the json 
+### My first project looks like The_API_Mimic.py which mimic the json 
+#### The_API_Mimic2.py showing converting raw log to useful nested dictionary
 
 ### if you love my content please support me.
